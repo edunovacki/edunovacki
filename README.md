@@ -1,0 +1,8 @@
+- # sobre mim 
+- olá eu sou edunovacki:man_health_worker:
+- tenho 16 anos
+- gosto muito de programação:computer:
+- sei bastante sobre o office
+- gosto muito de pensamento computacional
+- sou de exatas
+- meu email é eduardo.novackidos.anjos@escola.pr.gov.br
